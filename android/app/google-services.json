@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568102045224",
+    "project_id": "swiftaid-fc41e",
+    "storage_bucket": "swiftaid-fc41e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568102045224:android:2a0cf0b49656a81855d71d",
+        "android_client_info": {
+          "package_name": "com.example.swiftaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPMKGpFlBskJizr1PB6Psx0YrzYuHfoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
